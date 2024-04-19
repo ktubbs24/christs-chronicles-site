@@ -10,8 +10,8 @@
 
 What is the compass rose? 
 
+The compass rose is the main navigation note that directs you to all of the collections of my writings in its different areas and categories. 
 
-/publ
 
 ## collection map names as backlinks
 Describe this collection 
