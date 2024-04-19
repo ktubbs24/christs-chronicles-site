@@ -11,7 +11,7 @@
 What is the compass rose? 
 
 
-
+/publ
 
 ## collection map names as backlinks
 Describe this collection 
