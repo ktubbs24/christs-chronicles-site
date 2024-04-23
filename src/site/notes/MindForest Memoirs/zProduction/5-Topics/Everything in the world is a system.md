@@ -2,7 +2,7 @@
 {"dg-publish":true,"permalink":"/mind-forest-memoirs/z-production/5-topics/everything-in-the-world-is-a-system/"}
 ---
 
-Index:: [[MindForest Memoirs/Passion/Systems Thinking\|Systems Thinking]]
+Index:: [[Systems Thinking\|Systems Thinking]]
 # Everything in the world is a system
 Related:: [[MindForest Memoirs/zProduction/5-Topics/Structure and routines are the foundation and backbone of systems\|Structure and routines are the foundation and backbone of systems]]
 
