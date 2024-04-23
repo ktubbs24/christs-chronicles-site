@@ -2,7 +2,7 @@
 {"dg-publish":true,"permalink":"/mind-forest-memoirs/z-production/5-topics/i-need-structures-and-routines-in-my-life/"}
 ---
 
-Index:: [[Routines\|Routines]] | [[Systems Thinking\|Systems Thinking]]
+Index:: [[MindForest Memoirs/Passion/Routines\|Routines]] | [[MindForest Memoirs/Passion/Systems Thinking\|Systems Thinking]]
 # I need structures and routines in my life
 
 Related:: [[MindForest Memoirs/zProduction/3-Emerged/I function more efficiently in systems\|I function more efficiently in systems]]
