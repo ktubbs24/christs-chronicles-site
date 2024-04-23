@@ -2,7 +2,7 @@
 {"dg-publish":true,"permalink":"/mind-forest-memoirs/z-production/5-topics/i-need-structures-and-routines-in-my-life/"}
 ---
 
-Index:: [[MindForest Memoirs/Passion/Routines\|Routines]] | [[MindForest Memoirs/Passion/Systems Thinking\|Systems Thinking]]
+Index:: [[Routines\|Routines]] | [[Systems Thinking\|Systems Thinking]]
 # I need structures and routines in my life
 
 Related:: [[MindForest Memoirs/zProduction/3-Emerged/I function more efficiently in systems\|I function more efficiently in systems]]
@@ -17,7 +17,7 @@ God controls all circumstances in my life since He:
 
 But regardless, even with having a loose structure that is all I would need so that I could practice intentionality every day and be consistent and committed to whatever it is I need to do which in turn leads to helping me to grow to be a better steward of my time and my body and to be used by God to nurture others in His garden/harvest.
 
-Having structure and routines represents [[MindForest Memoirs/Personal/Field Notes/seeing the order in chaos\| order in this chaotic world]] and without it, it leads to people who have[[MindForest Memoirs/zProduction/5-Topics/A disorderly spirit is not going to have order and structure in their physical life\| disorderly spirits]]. 
+Having structure and routines represents [[MindForest Memoirs/zProduction/4-Summarizing/seeing the order in chaos\| order in this chaotic world]] and without it, it leads to people who have[[MindForest Memoirs/zProduction/5-Topics/A disorderly spirit is not going to have order and structure in their physical life\| disorderly spirits]]. 
 
 ---
 - see also:: 
