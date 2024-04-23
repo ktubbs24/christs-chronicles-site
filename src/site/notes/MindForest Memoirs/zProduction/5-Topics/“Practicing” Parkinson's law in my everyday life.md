@@ -2,19 +2,19 @@
 {"dg-publish":true,"permalink":"/mind-forest-memoirs/z-production/5-topics/practicing-parkinson-s-law-in-my-everyday-life/"}
 ---
 
-Index:: [[MindForest Memoirs/Passion/Ella's Eclectic Writings/Productivity/Time-Management/Time-Management\|Time-Management]]
+Index:: [[Time-Management\|Time-Management]]
 # “Practicing” Parkinson's law in my everyday life 
 Related:: [[MindForest Memoirs/zProduction/5-Topics/I need structures and routines in my life\|I need structures and routines in my life]]
 
 > **Parkinson’s Law**: *The notion that work expands to fill the time available for its completion.* 
 
-I heard about someone talking about Parkinson's law on a video today and even though I heard the term and concept before I had to revisit the meaning of Parkinson’s law just out of curiosity since I love [[MindForest Memoirs/Passion/Ella's Eclectic Writings/Productivity/Time-Management/Time-Management\|Time-Management]] — although I do believe that this “law” preceded Parkinson’s dissertations on the matter. 
+I heard about someone talking about Parkinson's law on a video today and even though I heard the term and concept before I had to revisit the meaning of Parkinson’s law just out of curiosity since I love [[Time-Management\|Time-Management]] — although I do believe that this “law” preceded Parkinson’s dissertations on the matter. 
 
 ## I have always functioned best when activities were placed in time slots in the day
 
 I am always trying to find out different ways to make the best use of my time while working in many areas of online ministry production and when I looked over what Parkinson’s law meant in a little more depth then what I was familiar with; it was very interesting how I noticed that I had been practicing the concept most of my adult life already. 
 
-Since my time in the Marines, I learned about myself that [[MindForest Memoirs/Passion/I enjoy and work better under stress (eustress)\|I enjoy and work better under stress (eustress)]] and deadlines instead of free balling it and living vicariously through others and what normally comes with a spontaneity lifestyle. That type of lifestyle stresses me out in the worse way. 
+Since my time in the Marines, I learned about myself that [[I enjoy and work better under stress (eustress)\|I enjoy and work better under stress (eustress)]] and deadlines instead of free balling it and living vicariously through others and what normally comes with a spontaneity lifestyle. That type of lifestyle stresses me out in the worse way. 
 
 In the past I remember that anytime  I needed or did get something done, I would get it done when I would assign/block time out of my day or when I used to work and clock in at my older jobs. 
 
