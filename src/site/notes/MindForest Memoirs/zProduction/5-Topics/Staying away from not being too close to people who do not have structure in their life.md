@@ -2,7 +2,7 @@
 {"dg-publish":true,"permalink":"/mind-forest-memoirs/z-production/5-topics/staying-away-from-not-being-too-close-to-people-who-do-not-have-structure-in-their-life/"}
 ---
 
-Index:: [[Routines\|Routines]] 
+Index:: [[MindForest Memoirs/Passion/Routines\|Routines]] 
 # Staying away from not being too close to people who do not have structure in their life
 Related:: [[MindForest Memoirs/zProduction/5-Topics/A disorderly spirit is not going to have order and structure in their physical life\|A disorderly spirit is not going to have order and structure in their physical life]] 
 
