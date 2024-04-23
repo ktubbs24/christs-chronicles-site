@@ -2,7 +2,7 @@
 {"dg-publish":true,"permalink":"/mind-forest-memoirs/z-production/5-topics/time-budgeting-is-allowing-me-to-intentionally-make-good-use-of-my-time-while-respecting-and-appreciating-the-time-that-god-has-blessed-me-with/"}
 ---
 
-Index:: [[Time-Management\|Time-Management]]
+Index:: [[MindForest Memoirs/Passion/Ella's Eclectic Writings/Productivity/Time-Management/Time-Management\|Time-Management]]
 # Time Budgeting is allowing me to intentionally make good use of my time while respecting and appreciating the time that God has blessed me with
 Related:: [[MindForest Memoirs/zProduction/5-Topics/I've been feeling more fulfilled at the end of the day with time budgeting\|I've been feeling more fulfilled at the end of the day with time budgeting]]
 
