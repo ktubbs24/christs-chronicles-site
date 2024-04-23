@@ -2,7 +2,7 @@
 {"dg-publish":true,"permalink":"/mind-forest-memoirs/z-production/5-topics/i-ve-been-feeling-more-fulfilled-at-the-end-of-the-day-with-time-budgeting/"}
 ---
 
-Index:: [[Time-Management\|Time-Management]]
+Index:: [[MindForest Memoirs/Passion/Ella's Eclectic Writings/Productivity/Time-Management/Time-Management\|Time-Management]]
 # I've been feeling more fulfilled at the end of the day with time budgeting
 Related:: [[MindForest Memoirs/zProduction/5-Topics/Time Budgeting is allowing me to intentionally make good use of my time while respecting and appreciating the time that God has blessed me with\|Time Budgeting is allowing me to intentionally make good use of my time while respecting and appreciating the time that God has blessed me with]]
 
