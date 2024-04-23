@@ -2,7 +2,7 @@
 {"dg-publish":true,"permalink":"/mind-forest-memoirs/z-production/5-topics/a-disorderly-spirit-is-not-going-to-have-order-and-structure-in-their-physical-life/"}
 ---
 
-Index:: [[Routines\|Routines]]
+Index:: [[MindForest Memoirs/Passion/Routines\|Routines]]
 # A disorderly spirit is not going to have order and structure in their physical life
 Related:: [[MindForest Memoirs/zProduction/5-Topics/I need structures and routines in my life\|I need structures and routines in my life]]
 
