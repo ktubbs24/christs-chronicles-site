@@ -3,7 +3,7 @@
 ---
 
 
-🔺:: [[MindForest Memoirs/🧭 Compass Rose\|🧭 Compass Rose]]
+🔺:: [[🧭 Compass Rose\|🧭 Compass Rose]]
 # Culture Against Christ
 Related:: 
 
