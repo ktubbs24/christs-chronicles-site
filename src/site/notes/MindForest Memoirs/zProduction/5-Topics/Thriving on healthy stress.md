@@ -2,9 +2,9 @@
 {"dg-publish":true,"permalink":"/mind-forest-memoirs/z-production/5-topics/thriving-on-healthy-stress/"}
 ---
 
-Index:: [[Stress Management\|Stress Management]]
+Index:: [[MindForest Memoirs/Passion/Stress Management\|Stress Management]]
 # Thriving on healthy stress
-Related:: [[I enjoy and work better under stress (eustress)\|I enjoy and work better under stress (eustress)]]
+Related:: [[MindForest Memoirs/Passion/I enjoy and work better under stress (eustress)\|I enjoy and work better under stress (eustress)]]
 
 [[MindForest Memoirs/zProduction/5-Topics/Thriving on healthy stress\|I remember learning back in college that there is bad stress and then there is healthy stress]] and having tasks given an allotted time to be completed, to me, is healthy stress; but when I am around others who are not serious about their life and are lazy then just being around them makes me feel *unhealthy stressed* and anytime that I would try to explain to them why I was stressed or try to give them “*understanding*” as to why I was stressed and it never worked getting the point across but would just lead to more unhealthy stress. Some people live better under a fluid lifestyle, but [[MindForest Memoirs/zProduction/5-Topics/I need structures and routines in my life\|I need structures and routines in my life]] to function at my best as I thrive on the healthy stress that is present with deadlines and self-asserted windows of time. 
 
