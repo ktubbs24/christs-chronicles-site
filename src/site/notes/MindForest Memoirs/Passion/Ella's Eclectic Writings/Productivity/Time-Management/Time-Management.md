@@ -4,7 +4,7 @@
 
 Hub:: [[MindForest Memoirs/Passion/Ella's Eclectic Writings/Productivity/Productivity\|Productivity]]
 # Time-Management
-Related:: [[MindForest Memoirs/Passion/Routines\|Routines]]
+Related:: [[MindForest Memoirs/Passion/Ella's Eclectic Writings/Productivity/Routines/Routines\|Routines]]
 
 *Time management (or what I prefer to call time stewardship) has become a hobby of mine recently because I never liked wasting time, but I used to always be stressed that I did not have the proper understanding or way to prioritize and protect my time when I was younger; but I have always NOT wanted to waste my youth or my time, so God has blessed me to come across the knowledge and understanding of how to better be wise with my time. 
 
