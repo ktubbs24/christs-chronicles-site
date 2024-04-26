@@ -12,7 +12,7 @@ This is a new hobby of mine that I really enjoy.
 
 This is a tool to helps me to not be distracted for long periods of my time if at all and helps me to fulfill the scriptures: 
 
-> [[MindForest Memoirs/_META_/Bible Study Kit (ESV)/Scripture (WEB)/49 - Ephesians/Ephes-05#v15\|Ephes 5,15-17]] *Therefore watch carefully how you walk, not as unwise, but as wise,  redeeming the time, because the days are evil.  Therefore don't be foolish, but understand what the will of the Lord is.*  [[MindForest Memoirs/_META_/Bible Study Kit (ESV)/Scripture (WEB)/49 - Ephesians/Ephes-05#v16\|Ephes-05#v16]][[MindForest Memoirs/_META_/Bible Study Kit (ESV)/Scripture (WEB)/49 - Ephesians/Ephes-05#v17\|Ephes-05#v17]]
+> [[MindForest Memoirs/Profession/Studies/Bible Study Kit (ESV)/Scripture (WEB)/49 - Ephesians/Ephes-05#v15\|Ephes 5,15-17]] *Therefore watch carefully how you walk, not as unwise, but as wise,  redeeming the time, because the days are evil.  Therefore don't be foolish, but understand what the will of the Lord is.*  [[MindForest Memoirs/Profession/Studies/Bible Study Kit (ESV)/Scripture (WEB)/49 - Ephesians/Ephes-05#v16\|Ephes-05#v16]][[MindForest Memoirs/Profession/Studies/Bible Study Kit (ESV)/Scripture (WEB)/49 - Ephesians/Ephes-05#v17\|Ephes-05#v17]]
 
 
 ---
@@ -22,3 +22,5 @@ This is a tool to helps me to not be distracted for long periods of my time if a
 
 
 #topic #type/personal/docs #i/productivity  #p/guarding_my_time 
+
+#2024/April 
