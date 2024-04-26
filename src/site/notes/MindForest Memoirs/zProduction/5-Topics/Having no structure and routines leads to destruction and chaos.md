@@ -2,7 +2,7 @@
 {"dg-publish":true,"permalink":"/mind-forest-memoirs/z-production/5-topics/having-no-structure-and-routines-leads-to-destruction-and-chaos/"}
 ---
 
-Index:: [[MindForest Memoirs/Passion/Routines\|Routines]] 
+Index:: [[MindForest Memoirs/Passion/Ella's Eclectic Writings/Productivity/Routines/Routines\|Routines]] 
 # Having no structure and routines leads to destruction and chaos
 Related:: [[MindForest Memoirs/zProduction/5-Topics/I need structures and routines in my life\|I need structures and routines in my life]]
 - see also: [[MindForest Memoirs/zProduction/3-Emerged/Jesus calms the chaos by His presence of order\|Jesus calms the chaos by His presence of order]]
@@ -25,3 +25,5 @@ This leads to future destruction and chaos.
 	- [[MindForest Memoirs/zProduction/5-Topics/Everything in the world is a system\|Everything in the world is a system]]
 
 #topic #type/passions/mini-essays #i/systems #i/productivity 
+
+#2024/April 
