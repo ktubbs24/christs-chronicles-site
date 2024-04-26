@@ -2,7 +2,7 @@
 {"dg-publish":true,"permalink":"/mind-forest-memoirs/z-production/5-topics/a-disorderly-spirit-is-not-going-to-have-order-and-structure-in-their-physical-life/"}
 ---
 
-Index:: [[MindForest Memoirs/Passion/Routines\|Routines]]
+Index:: [[MindForest Memoirs/Passion/Ella's Eclectic Writings/Productivity/Routines/Routines\|Routines]]
 # A disorderly spirit is not going to have order and structure in their physical life
 Related:: [[MindForest Memoirs/zProduction/5-Topics/I need structures and routines in my life\|I need structures and routines in my life]]
 
@@ -22,3 +22,5 @@ These are sadly the types of people who are being [[influencers and content crea
 	- [[MindForest Memoirs/zProduction/3-Emerged/Jesus calms the chaos by His presence of order\|Jesus calms the chaos by His presence of order]]
 
 #topic #type/personal/mini-essays #i/productivity #i/systems 
+
+#2024/April 
