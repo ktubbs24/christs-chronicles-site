@@ -8,8 +8,8 @@ Related:: [[MindForest Memoirs/zProduction/4-Summarizing/My son is so beautiful 
 
 God uses children to teach adults how to see: 
 
-> [[MindForest Memoirs/_META_/Bible Study Kit (ESV)/Scripture (WEB)/46 - 1 Corinthians/1 Cor-01#v27\|1 Cor 1.27]] ...*but God chose the foolish things of the world that he might put to shame those who are wise. God chose the weak things of the world that he might put to shame the things that are strong.*  
-> [[MindForest Memoirs/_META_/Bible Study Kit (ESV)/Scripture (WEB)/46 - 1 Corinthians/1 Cor-01#v28\|1 Cor 1.28]] *God chose the lowly things of the world, and the things that are despised, and the things that don't exist, that he might bring to nothing the things that exist. 
+> [[MindForest Memoirs/Profession/Studies/Bible Study Kit (ESV)/Scripture (WEB)/46 - 1 Corinthians/1 Cor-01#v27\|1 Cor 1.27]] ...*but God chose the foolish things of the world that he might put to shame those who are wise. God chose the weak things of the world that he might put to shame the things that are strong.*  
+> [[MindForest Memoirs/Profession/Studies/Bible Study Kit (ESV)/Scripture (WEB)/46 - 1 Corinthians/1 Cor-01#v28\|1 Cor 1.28]] *God chose the lowly things of the world, and the things that are despised, and the things that don't exist, that he might bring to nothing the things that exist. 
 
 It is because when we are children, we don’t have the understanding of how evil this world is and the extent that we learn about this world and most people as we get older. And this is because experience. And with [[Experience is going to knowledge because experience is knowledge\|Experience is going to knowledge because experience is knowledge]]. 
 
