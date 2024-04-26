@@ -6,7 +6,7 @@ Index:: [[MindForest Memoirs/Passion/Ella's Eclectic Writings/Productivity/Time-
 # I've been feeling more fulfilled at the end of the day with time budgeting
 Related:: [[MindForest Memoirs/zProduction/5-Topics/Time Budgeting is allowing me to intentionally make good use of my time while respecting and appreciating the time that God has blessed me with\|Time Budgeting is allowing me to intentionally make good use of my time while respecting and appreciating the time that God has blessed me with]]
 
-When you have decided that on certain days of the week you want to do xyz and it very easy to say no to people and things that aren’t as important to give your *time* to. And you won’t *spend* time on mediocre things which leads to a more fulfilling day and productive day versus barely getting by and always feeling anxious, late, or pulled around in multiple directions, falling into others *time budget* instead of your own. 
+When you have decided that on certain days of the week you want to do xyz it's very easy to say no to people and things that aren’t as important to give your *time* to. And you won’t *spend* time on mediocre things which leads to a more fulfilling day and productive day versus barely getting by and always feeling anxious, late, or pulled around in multiple directions, falling into others *time budget* instead of your own. 
 
 As I mentioned in [[MindForest Memoirs/zProduction/5-Topics/Budget your time like you would budget your finances\|Budget your time like you would budget your finances]], when you have a personal time budget it is easier for you to not waste time on non important tasks and while I have been practicing time budgeting these past two weeks or so, I’ve been noticing how fulfilled I am in having an accomplished feeling at the end of everyday. 
 
@@ -25,3 +25,5 @@ So this is all fun and amazing peeling the layers back and reflecting and seeing
 
 
 #topic #type/personal/memo #d/disciple_of_christ #i/productivity  #p/guarding_my_time 
+
+#2024/April 
