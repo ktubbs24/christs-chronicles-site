@@ -2,7 +2,7 @@
 {"dg-publish":true,"permalink":"/mind-forest-memoirs/z-production/5-topics/everything-in-the-world-is-a-system/"}
 ---
 
-Index:: [[MindForest Memoirs/Passion/Systems Thinking\|Systems Thinking]]
+Index:: [[MindForest Memoirs/Passion/Ella's Eclectic Writings/Productivity/Systems Thinking/Systems Thinking\|Systems Thinking]]
 # Everything in the world is a system
 Related:: [[MindForest Memoirs/zProduction/5-Topics/Structure and routines are the foundation and backbone of systems\|Structure and routines are the foundation and backbone of systems]]
 
@@ -16,3 +16,5 @@ We see the same thing with every major organization, any type of functional even
 	- [[MindForest Memoirs/zProduction/5-Topics/I need structures and routines in my life\|I need structures and routines in my life]]
 
 #topic #type/passions/mini-essays #i/systems  
+
+#2024/April 
