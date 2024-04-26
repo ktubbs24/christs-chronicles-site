@@ -19,3 +19,5 @@ Everything comes from [[God is Spirit \| God (who is Spirit)]] and who starts al
 ---
 
 #topic #type/profession/mini-essays #s/studying_creation
+
+#2024/April 
