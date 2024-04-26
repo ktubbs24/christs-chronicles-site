@@ -13,7 +13,7 @@ I used to say Jesus is not a religion, but that was based on my only understandi
 
 But religion in and of itself is not evil. People with evil hearts defile religion that first came from God above:
 
-> [[MindForest Memoirs/_META_/Bible Study Kit (ESV)/Scripture (WEB)/59 - James/James-01#v27\|James 1.27]] *Pure religion and undefiled before our God and Father is this: to visit the fatherless and widows in their affliction, and to keep oneself unstained by the world.* 
+> [[MindForest Memoirs/Profession/Studies/Bible Study Kit (ESV)/Scripture (WEB)/59 - James/James-01#v27\|James 1.27]] *Pure religion and undefiled before our God and Father is this: to visit the fatherless and widows in their affliction, and to keep oneself unstained by the world.* 
 
 The only time when religion is pure and faultless is when it is coming from Jesus, who is pure and faultless. Notice that this type of religion can only be coming from Jesus and NOT Christianity, which comes from mankind's traditions. 
 
@@ -26,3 +26,5 @@ Also, the only [[MindForest Memoirs/zProduction/3-Emerged/Jesus is the Way\|way]
 
 
 #topic #type/personal/mini-essays #d/disciple_of_christ  #s/studying_creation 
+
+#2024/April 
